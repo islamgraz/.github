@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/islamgraz/.github/main/IKC_DE-webseite.png" alt="Islamisches Kulturzentrum Graz logo" width="200">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/islamgraz/.github/main/profile/logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/islamgraz/.github/main/profile/IKC_DE-webseite.png">
+  <img src="https://raw.githubusercontent.com/islamgraz/.github/main/profile/IKC_DE-webseite.png" alt="Islamisches Kulturzentrum Graz logo" width="200">
+</picture>
 
 # Islamisches Kulturzentrum Graz
 
@@ -21,7 +25,7 @@ Are you a developer, designer or simply want to help? Volunteers from the commun
 
 ✉️ Contact us at [dev@islamgraz.org](mailto:dev@islamgraz.org)
 
-> Our repositories are private. Volunteers get access after getting in touch with us.
+*Our repositories are private. Volunteers get access after getting in touch with us.*
 
 </div>
 
